@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2020/10/17/hello-there/</loc>
+<lastmod>2020-10-17T11:05:55-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/10/19/grow-up-with-music/</loc>
+<lastmod>2020-10-19T08:01:35-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/10/19/i-made-a-warmthy-visualization/</loc>
+<lastmod>2020-10-19T08:01:35-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Art/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/introduction/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/music/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/home/</loc>
+</url>
+</urlset>
