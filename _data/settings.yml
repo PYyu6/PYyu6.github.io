@@ -1,9 +1,9 @@
+---
 #-------------------------------
 # General Site Settings
 title: Peiyu Yu
 logo: logo.svg # You can add own logo.
 description: Peiyu loves the interdisplinary of art and technology
-
 
 #-------------------------------
 # Author Settings
@@ -11,31 +11,26 @@ author:
   name: Peiyu Yu
   image: person.jpg
   say-hello: Hello, I’m <strong>Peiyu Yu</strong>
-  bio: I am a third-year undergraduate working towards computer science specialisit with focus on computer vision and artificial intelligence, as well as psychology minor at University of Toronto. I enjoy building <strong>AR, VR, art visualization</strong>. Check out <a href="#">my latest project</a> here. 
-
+  bio: I am a third-year undergraduate working towards computer science specialisit with focus on computer vision and artificial intelligence, as well as psychology minor at University of Toronto. I enjoy building <strong>AR, VR, art visualization</strong>. Check out <a href="#">my latest project</a> here.
 
 #-------------------------------
 # Contact links
 github: https://github.com/PYyu6 # Add your Twitter handle
 linkedin: https://www.linkedin.com/in/peiyu-yu/ # Add your Facebook handle
 
-
 #-------------------------------
 # # Comment Section (Disqus)
 # disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
-
 #-------------------------------
 # Instagram Feed
-instafeed: false 
+instafeed: false
 # instagram-profile: yuzu_and_herself # Add instagram username
-
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-177827645-1 
-
+google-analytics: UA-177827645-1
 
 #-------------------------------
 # Newsletter
-mailchimp: hpeiyu.yu@mail.utoronto.ca 
+mailchimp: hpeiyu.yu@mail.utoronto.ca

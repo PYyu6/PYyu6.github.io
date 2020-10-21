@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I Made a warmthy visualization
+title:  I Design a Music Visualization
 date:   2020-10-19 15:01:35 +0300
 image:  05.jpg
 tags:   Home
