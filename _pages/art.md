@@ -4,6 +4,7 @@ title: Art
 permalink: /art/
 image: arch.png
 ---
+
 Selected painting pieces.
 
 ***
