@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-image: project-page.jpg
+image: 02.jpg
 ---
 
 I am familiar with Python and C. I am fluent in javascript, java and C++. I have experience in solving computer vision and machine learning problems with PyTorch and scikit-learn. Here are the projects I would love to share.

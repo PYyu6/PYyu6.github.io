@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello there!"
 date:   2020-10-17 18:05:55 +0300
-image:  02.jpg
+image:  07.jpg
 tags:   Personal
 ---
 
