@@ -20,7 +20,7 @@ I would highly recommend the guitar if you are looking for an instrument to star
 
 ***
 
-## Music style
+## Music Style
 
 Music is one's another diary. Just like nature v.s. nurture debate in psychology, there is a debate over lyrics and melody. Previously, I think lyrics is more important since good lyrics can excuse melody. Also, there is usually a pattern in melody even it is classical music. I usually get bored if I could easily predict the song.
 However, I changed my mind when I touched LoFi Hip Hop, Emo, R&B, soul and Indie. You can rarely predict how the melody flows since there is riff component in these styles. I enjoy being laid back and chill when listening to these music pieces. My favourite artist is Dean. Check out his song <a href="https://www.youtube.com/watch?v=wKyMIrBClYw">Instagram</a>.
