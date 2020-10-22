@@ -1,27 +1,38 @@
 ---
 layout: page
 title: Art
-permalink: /Art/
-image: person.jpg
+permalink: /art/
+image: arch.png
 ---
-
-Art events i have attended. Art pieces i made
+Selected painting pieces.
 
 ***
 
 
 ### Art Piece
-#### 
-##### 
-###### 
 
 
 ***
 
-### Images
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
+![]({{site.baseurl}}/images/painting1.png)
+*Ukiyoe*
 
 ***
 
+
+![]({{site.baseurl}}/images/painting2.png)
+*sparkling river*
+
+***
+
+
+![]({{site.baseurl}}/images/painting3.png)
+*Ice*
+
+***
+
+
+
+
+I will talk about interesting art and technology events I have attended in the future. Stay tuned!
