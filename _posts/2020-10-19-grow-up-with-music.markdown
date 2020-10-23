@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Grow Up with Music
+title:  Grow Up With Music
 date:   2020-10-19 15:01:35 +0300
 image:  06.jpg
 tags:   Art

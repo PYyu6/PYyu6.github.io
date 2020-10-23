@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I Design an Interactive Music Visualization
+title:  I Design An Interactive Music Visualization
 date:   2020-10-19 15:01:35 +0300
 image: musvis.png
 tags:   Sense Tech Art 
@@ -54,5 +54,5 @@ I would like to talk about the libraries and techniques that I have used in futu
 
 ***
 
-I have just accomplished stage 1. In the future, I hope different users can interact with others in the future. Please stay tuned. If you have any thoughts, feel free to discuss with me.
+I have just accomplished stage 1. In the future, I hope different users can interact with others. Please stay tuned. If you have any thoughts, feel free to discuss with me.
 
